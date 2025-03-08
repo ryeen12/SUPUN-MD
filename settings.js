@@ -30,7 +30,7 @@ AUTO_READ_CMD: process.env.AUTO_READ_CMD === undefined ? "false" : process.env.A
 ALWAYS_RECORDING: process.env.ALWAYS_RECORDING === undefined ? "false" : process.env.ALWAYS_RECORDING,
 ALWAYS_TYPING: process.env.ALWAYS_TYPING === undefined ? "false" : process.env.ALWAYS_TYPING,
 AUTO_BIO: process.env.AUTO_BIO === undefined ? "false" : process.env.AUTO_BIO,
-AUTO_REACT: process.env.AUTO_REACT === undefined ? "true" : process.env.AUTO_REACT,
+AUTO_REACT: process.env.AUTO_REACT === undefined ? "false" : process.env.AUTO_REACT,
 HEART_REACT: process.env.HEART_REACT === undefined ? "false" : process.env.HEART_REACT,
 AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY === undefined ? "false" : process.env.AUTO_STATUS_REPLY,
 AUTO_STATUS__MSG: process.env.AUTO_STATUS__MSG === undefined ? "`𝒀𝒐𝒖𝒓 𝒔𝒕𝒂𝒕𝒖𝒔 𝒔𝒆𝒆𝒏 𝒋𝒖𝒔𝒕 𝒏𝒐𝒘 𝒃𝒚 ♥️🌸⃝𝐒𝐔𝐏𝐔𝐍 𝐌𝐃ᥫ᭡👑`" : process.env.AUTO_STATUS__MSG,
